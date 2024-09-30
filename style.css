@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255)
+}
+
+h1 {
+    font-family: 'Pacifico', cursive; /* Use uma fonte do Google Fonts */
+    text-align: center;
+    color: rgb(102, 12, 12);
+}
+
+img {
+    border: 2px solid black;
+    width: 400px;
+}
+
+ul {
+    list-style-type: square;
+}
+h2 {
+    color: rgb(102, 12, 12);
+}
+.dica {
+    font-style: italic;
+    color: green;
+}
